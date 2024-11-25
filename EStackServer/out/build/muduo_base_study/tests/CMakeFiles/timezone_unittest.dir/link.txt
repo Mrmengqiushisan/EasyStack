@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/timezone_unittest.dir/TimeZone_unittest.cc.o -o timezone_unittest  ../libmuduo_base.a -lpthread -lrt 

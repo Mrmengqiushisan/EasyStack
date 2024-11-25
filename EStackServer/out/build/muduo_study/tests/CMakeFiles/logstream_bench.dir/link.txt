@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/logstream_bench.dir/LogStream_bench.cc.o -o logstream_bench  ../libmuduo_base.a -lpthread -lrt 

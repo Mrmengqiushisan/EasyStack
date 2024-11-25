@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmuduo_inspect.a CMakeFiles/muduo_inspect.dir/Inspector.o CMakeFiles/muduo_inspect.dir/PerformanceInspector.o CMakeFiles/muduo_inspect.dir/ProcessInspector.o CMakeFiles/muduo_inspect.dir/SystemInspector.o
+/usr/bin/ranlib libmuduo_inspect.a

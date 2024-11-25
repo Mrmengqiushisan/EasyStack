@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/blockingqueue_bench2.dir/BlockingQueue_bench2.cc.o -o blockingqueue_bench2  ../libmuduo_base.a -lpthread -lrt 

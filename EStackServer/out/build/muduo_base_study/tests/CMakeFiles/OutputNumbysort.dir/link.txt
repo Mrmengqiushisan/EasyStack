@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/OutputNumbysort.dir/OutputNumbysort.cc.o -o OutputNumbysort  ../libmuduo_base.a -lpthread -lrt 

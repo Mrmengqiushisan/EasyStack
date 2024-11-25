@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/logfile_test.dir/LogFile_test.cc.o -o logfile_test  ../libmuduo_base.a -lpthread -lrt 

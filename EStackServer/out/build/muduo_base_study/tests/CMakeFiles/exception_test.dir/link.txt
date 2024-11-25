@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/exception_test.dir/Exception_test.cc.o -o exception_test  ../libmuduo_base.a -lpthread -lrt 
