@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tcpclient_reg1.dir/TcpClient_reg1.o -o tcpclient_reg1   -L/home/wangtao/easy_server/EStackServer/out/build/muduo_net_study  ../libmuduo_net.a -lmuduo_base -lpthread -lrt 

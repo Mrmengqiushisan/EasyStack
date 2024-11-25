@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/logstream_test.dir/LogStream_test.cc.o -o logstream_test  ../libmuduo_base.a -lboost_unit_test_framework -lpthread -lrt 

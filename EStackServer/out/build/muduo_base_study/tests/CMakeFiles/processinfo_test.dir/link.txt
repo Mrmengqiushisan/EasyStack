@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/processinfo_test.dir/ProcessInfo_test.cc.o -o processinfo_test  ../libmuduo_base.a -lpthread -lrt 

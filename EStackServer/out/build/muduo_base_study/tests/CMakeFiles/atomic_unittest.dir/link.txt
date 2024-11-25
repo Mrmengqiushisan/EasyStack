@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/atomic_unittest.dir/Atomic_unittest.cc.o -o atomic_unittest 

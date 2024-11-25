@@ -1,0 +1,4 @@
+/home/wangtao/easy_server/EdoyunIM_server/ubuntu/CMakeFiles/mychatserver.dir
+/home/wangtao/easy_server/EdoyunIM_server/ubuntu/CMakeFiles/myfileserver.dir
+/home/wangtao/easy_server/EdoyunIM_server/ubuntu/CMakeFiles/edit_cache.dir
+/home/wangtao/easy_server/EdoyunIM_server/ubuntu/CMakeFiles/rebuild_cache.dir

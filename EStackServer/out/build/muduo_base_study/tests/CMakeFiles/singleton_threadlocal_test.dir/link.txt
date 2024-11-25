@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/singleton_threadlocal_test.dir/SingletonThreadLocal_test.cc.o -o singleton_threadlocal_test  ../libmuduo_base.a -lpthread -lrt 

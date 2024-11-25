@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmuduo_protorpc.a CMakeFiles/muduo_protorpc.dir/RpcChannel.o CMakeFiles/muduo_protorpc.dir/RpcServer.o
+/usr/bin/ranlib libmuduo_protorpc.a

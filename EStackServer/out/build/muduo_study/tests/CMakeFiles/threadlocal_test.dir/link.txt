@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/threadlocal_test.dir/ThreadLocal_test.cc.o -o threadlocal_test  ../libmuduo_base.a -lpthread -lrt 

@@ -1,0 +1,6 @@
+/home/wangtao/easy_server/EStackServer/out/build/ubuntu/CMakeFiles/edit_cache.dir
+/home/wangtao/easy_server/EStackServer/out/build/ubuntu/CMakeFiles/rebuild_cache.dir
+/home/wangtao/easy_server/EStackServer/out/build/ubuntu/EStackServer/CMakeFiles/easyStackserver.dir
+/home/wangtao/easy_server/EStackServer/out/build/ubuntu/EStackServer/CMakeFiles/imfileserver.dir
+/home/wangtao/easy_server/EStackServer/out/build/ubuntu/EStackServer/CMakeFiles/edit_cache.dir
+/home/wangtao/easy_server/EStackServer/out/build/ubuntu/EStackServer/CMakeFiles/rebuild_cache.dir

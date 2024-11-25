@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/asynclogging_test.dir/AsyncLogging_test.cc.o -o asynclogging_test  ../libmuduo_base.a -lpthread -lrt 

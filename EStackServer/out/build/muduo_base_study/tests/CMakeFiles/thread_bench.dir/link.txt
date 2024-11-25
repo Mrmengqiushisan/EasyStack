@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/thread_bench.dir/Thread_bench.cc.o -o thread_bench  ../libmuduo_base.a -lpthread -lrt 

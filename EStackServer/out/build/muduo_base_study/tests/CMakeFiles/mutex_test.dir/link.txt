@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -Wall -O0 -Wno-unused-variable -pthread -rdynamic CMakeFiles/mutex_test.dir/Mutex_test.cc.o -o mutex_test  ../libmuduo_base.a -lpthread -lrt 
